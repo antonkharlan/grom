@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/imgg"/>
+    <qresource prefix="/imgee"/>
+    <qresource prefix="/\imgg"/>
+    <qresource prefix="/imggg"/>
+    <qresource prefix="/icons"/>
+    <qresource prefix="/iconnns"/>
+    <qresource prefix="/">
+        <file>img/icons8-выход-50.png</file>
+        <file>img/icons8-инструменты-50.png</file>
+        <file>img/icons8-конверт-50.png</file>
+        <file>img/icons8-лупа-64.png</file>
+        <file>img/icons8-магический-свиток-64.png</file>
+        <file>img/icons8-папка-расширений-50.png</file>
+        <file>img/icons8-песочные-часы-50.png</file>
+        <file>img/icons8-пользователи-50.png</file>
+        <file>img/icons8-список-50.png</file>
+        <file>img/icons8-убранная-полка-50.png</file>
+        <file>img/user.png</file>
+    </qresource>
+</RCC>
